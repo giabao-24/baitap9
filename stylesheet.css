@@ -6,18 +6,20 @@ body {
    width: 30%;
    height: 775px;
    float: left;
-   background-color: darkblue;
+   background-color: rgba(26, 26, 191, 0.742);
 }
 .leftimage {
   width: 55%;
   height: 200px;
   border-radius: 50%;
   object-fit: cover;
-  background-image: url('');
+  background-image: url('anhcbao.jpg');
   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   margin-top: 0.5cm;
   margin-left: 60px; 
-  background-color: aqua;
+  
 }
 .right {
   width: 70%;
